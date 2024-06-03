@@ -1,0 +1,11 @@
+{
+  "name": "vacay",
+  "version": "1.0.0",
+  "description": "Vacay is a hotel booking website made using MERN stack. The project uses JWT for user authentication.\r Users can add hotels, search and filter hotels and book them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
